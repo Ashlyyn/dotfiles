@@ -1,0 +1,1 @@
+/home/fingerlingus/.bashrc
